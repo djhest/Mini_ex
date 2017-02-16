@@ -20,6 +20,8 @@ if (mouseX < width/2) {
 
   col.r = random(0,126);
   col.g = random(127,255);
+  
+  frameRate(20);
   background(col.r);
 
   noStroke();
@@ -82,6 +84,7 @@ if (mouseX < width/2) {
   rect(0,700,windowWidth,windowHeight);
 
    // hoved 1
+   frameRate(60);
    col.r = random(0,255);
    col.g = random(0,255);
    col.b = random(0,255);
