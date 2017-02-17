@@ -4,12 +4,19 @@ var col = {
   b : 0
 };
 
+var song;
+
+function preload() {
+  song = loadSound("skrat.mp3");
+}
+
 function setup() {
   createCanvas(displayWidth,displayHeight);
-
+  song.play();
 }
 
 function draw() {
+  
 
 if (mouseX < width/2) {
   frameRate(10);
@@ -107,6 +114,7 @@ if (mouseX < width/2) {
   //hoved 2
 
   if (mouseIsPressed) {
+    
     frameRate(60);
 
      background(255);
