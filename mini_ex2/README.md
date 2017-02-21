@@ -8,3 +8,7 @@
  
 3. **WHAT IS ERROR TO YOU?**
  - For me error is when something doesn't go as expected. Fx if a program can't run exactly, there is an error. Errors are not only in programming. Metaphorically they are everywhere. If something doesn't work the way you want to you can call it an error. Something went wrong in the "code". 
+
+
+
+- https://djhest.github.io/Mini_ex/mini_ex2/
