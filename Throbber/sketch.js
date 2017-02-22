@@ -13,12 +13,7 @@ function setup() {
 
 
 
-}
 
-function tæller() {
-  RNG = Math.floor((Math.random()*100)+1);
-
-}
 
 
 
