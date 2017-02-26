@@ -1,14 +1,14 @@
-![ScreenShot](https://github.com/djhest/Mini_ex_3/blob/gh-pages/mini_ex3/man.png)
+[RUN ME]()
 
-1. **DESCRIBE YOUR CODING PROCESS**
- - I started off by making the background as a lot of rectangles, which seems as very complicated way of doing it. The i tried to make a cartoonish head with an eye and a mouth. I wanted to make it follow the mouse, so i did that. Then i thought it was done, until i saw a few more videoes by Daniel Shiffman. After those videoes i added random coloring to both the background and the cartoonish head, i added a click function, i added sound and i played around with the frameRate.
+![ScreenShot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex3/man.png)
+
+1. **DESCRIBE A BIT ABOUT YOUR THROBBER DESIGN**
+ - At first i wanted to make a throbber inspired by the Google Chrome color scheme and so i did. But as i got further into the proces of making my throbber, things happened and i made some other decisions, changed some values and added a spinning triangle in the center of the throbber which ended up being my final design. The picture of the dude is just for fun.
  
-2. **WHAT CONSTITUTES A PROGRAM?**
- - A program is a bunch of commands for something to execute. If the commands are given in the right language and without faults the program will execute correctly.
+2. **HOW MAY WE USE PROGRAMMING TO REFLECT AND INQUIRE DIGITAL (VISUAL) CULTURE?**
+ - When working with digital products like computers no one wants to wait for it loading or anything else that takes time away from you. Therefore the throbber is wonderful thing because when shown the user doesnt think about the time wasted by waiting on the computer. 
+ Although some throbbers aren't that good at getting the users attention and therefore the user gets frustrated because of the waiting. I like throbbers that are getting full attention from the user, throbbers that activates the user while waiting or gives the user something to look at. Its like sitting in a room waiting for the dentist. If you dont have anything to do you will get frustrated. 
+ In the digital culture waiting is not appreciated and therefore the throbber should activate the user with something. Either some kind of game like youtube's snake game throbber or at least something aesthatically beautiful to look at. 
  
-3. **WHAT IS ERROR TO YOU?**
- - For me error is when something doesn't go as expected. Fx if a program can't run exactly, there is an error. Errors are not only in programming. Metaphorically they are everywhere. If something doesn't work the way you want to you can call it an error. Something went wrong in the "code". 
 
 
-
-- https://djhest.github.io/Mini_ex/mini_ex2/
