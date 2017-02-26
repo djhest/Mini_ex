@@ -1,4 +1,4 @@
-[RUN ME]()
+[RUN ME](https://djhest.github.io/Mini_ex/Mini_ex3/index.html)
 
 ![ScreenShot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex3/Sk%C3%A6rmbillede%202017-02-26%20kl.%2020.37.36.png)
 
