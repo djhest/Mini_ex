@@ -1,6 +1,6 @@
 [RUN ME]()
 
-![ScreenShot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex3/man.png)
+![ScreenShot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex3/Sk%C3%A6rmbillede%202017-02-26%20kl.%2020.37.36.png)
 
 1. **DESCRIBE A BIT ABOUT YOUR THROBBER DESIGN**
  - At first i wanted to make a throbber inspired by the Google Chrome color scheme and so i did. But as i got further into the proces of making my throbber, things happened and i made some other decisions, changed some values and added a spinning triangle in the center of the throbber which ended up being my final design. The picture of the dude is just for fun.
