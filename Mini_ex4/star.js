@@ -7,7 +7,7 @@ function Star(x,y,z) { // A so called constructor function which holds different
 
   this.update = function() { // A function that decides the direction of the stars
     this.z = this.z - speed;
-    if (this.z < 1) {
+    if (this.z < 5) {
       this.z = width;
       this.x = random(-width,width);
       this.y = random(-height,height);
