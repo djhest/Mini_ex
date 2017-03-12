@@ -12,8 +12,5 @@
 **Can you describe your experience in working with found text as the source materials?**
 - It was fairly easy to work with the text as source materials and I even find it very interesting working with text because it is able to tell something directly instead of figures, shapes and movement showing something. The RiTa library was where i struggled. I couldnt have made this without a tutorial, but i learned while watching the tutorial.
  
-Give a title to your piece and describe your program with a screenshot.
-What kind of functions you have used from RiTa library?
-Can you describe your experience in working with found text as the source materials?
-How might we think about the materiality of text/interface? How might we understand the “textual character” of the found text? (see the assigned class reading: https://elmcip.net/critical-writing/aesthetics-materiality-electronic-literature)
-
+**How might we think about the materiality of text/interface? How might we understand the “textual character” of the found text?**
+- In my program i dont think that the found text is that important. I merely think of the way the program uses the text and how it makes it into an experience for the user. So when talking about materiality of text/interface and electronic literature i think that it is most important to clearly show what you want to tell the user with your text. That is to make a program that visualizes what you want to be said. This program visualizes most frequently used words in the 5 most famous speeches of all time. It is then up to the user how to grasp that information and what to think about it.
