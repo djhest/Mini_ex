@@ -14,11 +14,11 @@ function preload() {
   lines4 = loadStrings('assets/pearl.txt');
   lines5 = loadStrings('assets/jordan.txt');
 
-  speech = loadSound('assets/sound/dream.mp3');
-  speech2 = loadSound('assets/sound/JFK_1.mp3');
-  speech3 = loadSound('assets/sound/roosevelt.mp3');
-  speech4 = loadSound('assets/sound/roosevelt_2.mp3');
-  speech5 = loadSound('assets/sound/jordan.mp3');
+  speech = loadSound('https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex5/assets/sound/Dream.mp3');
+  speech2 = loadSound('https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex5/assets/sound/JFK_1.mp3');
+  speech3 = loadSound('https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex5/assets/sound/Roosevelt.mp3');
+  speech4 = loadSound('https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex5/assets/sound/Roosevelt_2.mp3');
+  speech5 = loadSound('https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex5/assets/sound/jordan.mp3');
 }
 
 function setup() {
