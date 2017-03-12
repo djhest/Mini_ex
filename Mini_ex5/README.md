@@ -7,7 +7,7 @@
  -  The program contains one RiTa function which is called RiTaconcordance(). The function counts the amount of times a certain word appears in a loaded text file. The program shows every word of the given text file and the textSize is based on how many times a word appears in the text. 
  
 **Can you describe your experience in working with found text as the source materials?**
-- It was fairly easy to work with the text as source materials and I even find it very interesting working with text because it is able to tell something directly instead of figures, shapes and movement showing something. 
+- It was fairly easy to work with the text as source materials and I even find it very interesting working with text because it is able to tell something directly instead of figures, shapes and movement showing something. The RiTa library was where i struggled. I couldnt have made this without a tutorial, but i learned while watching the tutorial.
  
 Give a title to your piece and describe your program with a screenshot.
 What kind of functions you have used from RiTa library?
