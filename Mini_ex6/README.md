@@ -10,7 +10,7 @@ The wobbly edges are made by the noise function and is generated randomly every 
 **What are the rules that you have employed in your program?**
 1. There shape has a minimum and a maximum radius and it moves inside that interval.
 2. Theres on color and only one, so thats kinda anti-generative. I just thougt that random colors would be too much.
-3. I could make up a third rule cause it would be something like the whole shape moving inside the canvas, but i really wanted it to stay in the middle. 
+3. I couldnt make up a third rule cause it would be something like the whole shape moving inside the canvas, but i really wanted it to stay in the middle. 
 
 **By using some of the concepts from the article - Generative Art Theory, can you discuss how is your program expressed the notion of generativity?**
 
