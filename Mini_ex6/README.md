@@ -1,7 +1,9 @@
 [Something](https://djhest.github.io/Mini_ex/Mini_ex6/index.html)
 
 **Description**
+
 ![Screenshot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex6/Skærmbillede%202017-03-20%20kl.%2000.39.19.png)
+
 I worked on several different projects before finally deciding on the above. I couldnt really decide which one to go with until the deadline came closer. The program seems pretty simple. It creates a shape which is based on TWO_PI therefore it is round as an ellipse. 
 The wobbly edges are made by the noise function and is generated randomly every time so the result is never the same. The internet has yet again been helpful so SO to that. I couldnt decide on using random colors or a set of definite colors and ended up with the last mentioned. I thought that the to colors would match pretty well so i just went with it.
 
