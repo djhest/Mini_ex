@@ -22,7 +22,7 @@ function toggleSong() {
 
 function preload() {
   song = loadSound('assets/aaron.mp3');
-  gif = createVideo('assets/james.mov');
+  gif = createVideo('gif/james.mov');
 }
 
 function setup() {
