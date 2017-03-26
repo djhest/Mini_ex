@@ -21,7 +21,7 @@ function toggleSong() {
 }
 
 function preload() {
-  song = loadSound('assets/aaron.mp3');
+  song = loadSound('assets/kids.mp3');
   gif = createVideo('gif/james.mov');
 }
 
