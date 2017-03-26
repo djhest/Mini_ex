@@ -3,32 +3,37 @@ var sliders = [];
 var song;
 var fft;
 var gif;
+var dancer;
+var boxes = [];
+var boks;
+var kage;
+var cols = 40;
+var rows = 30;
 
 function toggleSong() {
   if (song.isPlaying()) {
     song.pause();
+    gif.pause();
   } else {
     song.play();
+    gif.loop();
   }
 }
 
 function preload() {
   song = loadSound('assets/aaron.mp3');
-  gif = createImg('gif/james.gif');
+  gif = createVideo('gif/james.mov');
 }
 
 function setup() {
   createCanvas(700,500)
-  background(244, 255, 255);
-
-
 
   gif.position(200,200);
   button = createButton('toggle');
   button.mousePressed(toggleSong);
   button.position(100,100);
   song.play();
-
+  gif.loop();
 
   fft = new p5.FFT(0.9,128);
   translate(-290,0);
@@ -39,6 +44,9 @@ function setup() {
     sliders[i].style('rotate','-90');
   }
 }
+
+
+
 
 function draw() {
 
