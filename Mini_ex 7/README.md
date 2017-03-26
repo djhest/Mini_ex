@@ -1,4 +1,4 @@
-[Sound Visualizer](https://djhest.github.io/Mini_ex/Mini_ex7/index.html)
+[Sound Visualizer](https://djhest.github.io/Mini_ex/Mini_ex%207/index.html)
 
 **Description**
 
