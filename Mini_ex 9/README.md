@@ -1,4 +1,4 @@
-[How many are in space right now?](https://djhest.github.io/Mini_ex/Mini_ex%209/index.html) OBS: I dont think it works on github :/
+[How many are in space right now?](https://djhest.github.io/Mini_ex/Mini_ex%209/index.html) OBS: I dont think it works on github, RIP :/
 
 ![Screenshot](https://github.com/djhest/Mini_ex/blob/gh-pages/Mini_ex%209/Sk%C3%A6rmbillede%202017-04-16%20kl.%2020.37.34.png)
 
